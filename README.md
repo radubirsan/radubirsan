@@ -28,8 +28,8 @@ Hello there! 👋 I'm Radu, a passionate and innovative app developer with a kee
 
 Check out some of my notable projects:
 
-- [NECT 3C Mobile]((https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
-- [NECT 3C Desktop]((https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html))
+- [NECT 3C Mobile]([Link to 3C MobileClient](https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
+- [NECT 3C Desktop]([Link to 3C DesktopClient](https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html))
 - ...
 
 ## Current Projects
@@ -43,7 +43,7 @@ I'm currently working on:
 
 Let's chat! You can find me on:
 
-- **LinkedIn:** [Your LinkedIn Profile]([Link to LinkedIn](https://www.linkedin.com/in/birsan-radu/))
+- **LinkedIn:** ([Link to LinkedIn](https://www.linkedin.com/in/birsan-radu/))
 - **Email:** radu.flash@gmail.com
 
 Feel free to reach out for collaboration, discussions, or just to say hello! 😊
