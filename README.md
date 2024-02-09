@@ -44,7 +44,6 @@ I'm currently working on:
 Let's chat! You can find me on:
 
 - **LinkedIn:** [Your LinkedIn Profile]([Link to LinkedIn](https://www.linkedin.com/in/birsan-radu/))
-- **Twitter:** [@YourTwitterHandle](Link to Twitter)
 - **Email:** radu.flash@gmail.com
 
 Feel free to reach out for collaboration, discussions, or just to say hello! 😊
