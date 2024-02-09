@@ -20,16 +20,16 @@ Hello there! 👋 I'm Radu, a passionate and innovative app developer with a kee
 
 ## Skills
 
-- **Languages:** [Swift, TypeScript, ActionScript]
-- **Frameworks:** [SwiftUI]
-- **Tools & Technologies:** [Voip, SIP, RTMP]
+- **Languages:** Swift, TypeScript, ActionScript
+- **Frameworks:** SwiftUI
+- **Tools & Technologies:** Voip, SIP, RTMP
 
   ## Portfolio
 
 Check out some of my notable projects:
 
-- [NECT 3C Mobile]([Link to Project 1](https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
-- [NECT 3C Desktop]([Link to Project 1](https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html))
+- [NECT 3C Mobile]((https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
+- [NECT 3C Desktop]((https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html))
 - ...
 
 ## Current Projects
