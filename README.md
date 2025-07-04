@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello there! 👋 I'm Radu, a passionate and innovative app developer with a keen interest in creating meaningful and user-centric applications. I thrive on turning ideas into reality through elegant code and intuitive user experiences.
+Hello there! 👋 I'm Radu, a passionate and innovative iOS developer with a keen interest in creating meaningful and user-centric applications. I thrive on turning ideas into reality through elegant code and intuitive user experiences.
 
 ## Skills
 
-- **Languages:** Swift, TypeScript, ActionScript
+- **Languages:** Swift, Objective-C, TypeScript, ActionScript
 - **Frameworks:** SwiftUI
 - **Tools & Technologies:** Voip, SIP, RTMP
 
   ## Portfolio
 
 Check out some of my notable projects:
-
+- Orange Luxemburg - ([Link to 3C MobileClient](https://apps.apple.com/ro/app/hello-esim-by-orange-lu/id6474242172))
 - NECT 3C Mobile([Link to 3C MobileClient](https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
 - NECT 3C Desktop([Link to 3C DesktopClient](https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html))
 - ...
@@ -35,7 +35,7 @@ Check out some of my notable projects:
 ## Current Projects
 
 I'm currently working on:
-
+- **Orange Services:** Buy a eSIM using simple KYC, check your balances, buy temporarary Travel eSIM, manage multiple accounts and more
 - **3C:** The UNIVERGE 3C Mobile Client Plus is a Unified Communications application that works along with your workplace’s UNIVERGE 3C Unified Communications system that provides Voice over IP (VoIP) PBX, Soft Phone and Unified Communications services for the enterprise.
 
 
