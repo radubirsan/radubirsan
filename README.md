@@ -29,7 +29,7 @@ Hello there! 👋 I'm Radu, a passionate and innovative iOS developer with a kee
 Check out some of my notable projects:
 - Orange Luxemburg - ([Link to Hello eSIM](https://apps.apple.com/ro/app/hello-esim-by-orange-lu/id6474242172))
 - NECT 3C Mobile - ([Link to 3C MobileClient](https://apps.apple.com/ec/app/univerge-3c-mobile-client-plus/id1552123885?l=en))
-- NECT 3C Desktop - ([Link to 3C DesktopClient]([https://th.nec.com/en_TH/product/telephony/u3c/ucclient.html](https://www.youtube.com/watch?v=7uBkAhaFQzU&t=293s)))
+- NECT 3C Desktop - ([Link to 3C DesktopClient](https://www.youtube.com/watch?v=7uBkAhaFQzU&t=293s))
 - Lipy Learn German - ([Link to Lipy](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/pl/app/lipy-ai-german-teachers/id6480590892&ved=2ahUKEwiwor6zjcmRAxXYh_0HHclHFRwQFnoECCcQAQ&usg=AOvVaw30oys4WJBH9qebI8HBUEse)) 
 
 ## Current Projects
